@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/gemini-stream.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
