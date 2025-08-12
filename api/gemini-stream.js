@@ -1,5 +1,5 @@
 export const config = {
-  runtime: "edge",
+  runtime: "nodejs18.x",
 };
 
 export default async function handler(req) {
@@ -32,3 +32,4 @@ export default async function handler(req) {
     });
   }
 }
+
